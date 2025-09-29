@@ -1,6 +1,7 @@
 # Python-calculator-
 # Easy-to-use scientific calculator (First Project) 
 [Project Milestone 1 - Python calculator.py](https://github.com/user-attachments/files/22603425/Project.Milestone.1.-.Python.calculator.py)
+
 import math
 def calculate(num1, operator, num2):
     if operator == '+':
